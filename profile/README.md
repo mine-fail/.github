@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://mine.fail">
-    <img src="https://raw.githubusercontent.com/mine-fail/.github/main/template/Bold.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/mine-fail/.github/blob/main/template/Crown-Orange.avi-Full-Size.gif" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">MineFail Network</h3>
