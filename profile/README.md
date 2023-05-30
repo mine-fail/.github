@@ -30,19 +30,28 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://mine.fail">
+    <img src="https://raw.githubusercontent.com/mine-fail/.github/main/template/Bold.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">MineFail Network</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <i>A cross-platform Minecraft network focusing on making unique Minecraft experiences</i>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <b>
+    <a href="https://mine.fail/"><strong>Join Our Network »</strong></a>
+    <br />
+    <br />
+    <a href="https://mine.fail/discord">Discord Invite</a>
+    ·
+    <a href="https://mine.fail/apply">Work With Us</a>
+    ·
+    <a href="mailto:hello@mine.fail">Email Us</a>
+    </b>
+    <br />
+    <a href="https://github.com/github_username/repo_name" style="text-color: red">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
