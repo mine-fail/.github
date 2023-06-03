@@ -3,7 +3,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/mine-fail/.github/issues]
+[![Issues][issues-shield]](https://github.com/mine-fail/.github/issues)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
